@@ -1,4 +1,4 @@
-# .NET Template Enhancement Repository
+# .NET Custom Template Line Injector
 
 ## Description
 
